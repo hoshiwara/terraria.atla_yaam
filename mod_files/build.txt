@@ -1,0 +1,3 @@
+displayName = Avatar: TLA - YAAM
+author = Hoshiwara, Manam
+version = 0.1

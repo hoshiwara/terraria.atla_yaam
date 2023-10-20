@@ -1,0 +1,8 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	SokkaMeteorSword: {
+		DisplayName: Sokka Meteor Sword
+		Tooltip: "Sokka's Mighty Sword, made from a Meteor."
+	}
+} 
